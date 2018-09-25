@@ -1,1 +1,1 @@
-# CPSC-3273-Algorithms-I
+# CPSC-3273-Algorithms-I Homeworks and Assignments.
